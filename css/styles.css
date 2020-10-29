@@ -1,0 +1,113 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+  color: #C3BEF0;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  color: #C3BEF0;
+font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #C3BEF0;
+  font-family: 'Press Start 2P', cursive;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #C3BEF0 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #C3BEF0;
+  font-family: 'Press Start 2P', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #222831;
+  position: relative;
+  padding-top: 10px;
+}
+
+.middle-container {
+  margin: 10px;
+}
+
+.bottom-container {
+  background-color: #393E46;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright {
+  color: #C3BEF0;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #222831;
+  color: #eeeeee;
+}
+
+.white-section {
+  background-color: #eeeeee;
+}
+
+.container-fluid {
+  padding: 3% 5% 3%;
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+.text-text {
+  font-size: 1.5rem;
+  line-height: 2;
+}
